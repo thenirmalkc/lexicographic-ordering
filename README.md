@@ -6,7 +6,7 @@
 $ python3 main.py
 ```
 
-## Algorithm ( Copied for the source for lazy folks )
+## Algorithm ( Copied from the source for lazy folks )
 Suppose that P[1..n] is a permutation of 1 through n. We can construct the next permutation in lexicographic order by following these simple steps:
 
   - Find the largest x such that P[x]<P[x+1].
