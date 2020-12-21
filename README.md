@@ -1,6 +1,6 @@
 # Lexicographic Ordering
 
-## Link to Source [Click Me !!](https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering)
+## Link to Source [Click Here !!](https://www.quora.com/How-would-you-explain-an-algorithm-that-generates-permutations-using-lexicographic-ordering)
 
 Suppose that P[1..n] is a permutation of 1 through n. We can construct the next permutation in lexicographic order by following these simple steps:
 
